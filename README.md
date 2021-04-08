@@ -1,0 +1,2 @@
+# SpringBootThymeLeaf
+Example using ThymeLeaf
